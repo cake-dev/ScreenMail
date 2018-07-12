@@ -49,7 +49,6 @@
 			isa = PBXGroup;
 			children = (
 				3306515420F7E28D00F09690 /* Source */,
-				3306514A20F7DC5700F09690 /* ScreenMail.h */,
 				3306514B20F7DC5800F09690 /* Info.plist */,
 			);
 			path = ScreenMail;
@@ -58,6 +57,7 @@
 		3306515420F7E28D00F09690 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				3306514A20F7DC5700F09690 /* ScreenMail.h */,
 				3306515220F7DCB600F09690 /* ScreenMail.swift */,
 			);
 			path = Source;
